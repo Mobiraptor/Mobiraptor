@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mobiraptor
 - 👀 I’m interested in games and music
-- 🌱 I’m currently learning game development on godot
+- 🌱 I’m currently learning game development on godot and unity
 - 📫 You can reach me through email rubick208@gmail.com
 
 <!---
